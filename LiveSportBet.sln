@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSportBet", "LiveSportBet\LiveSportBet.csproj", "{74FACD25-6E22-4531-92D9-56B11B65626E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FACD25-6E22-4531-92D9-56B11B65626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FACD25-6E22-4531-92D9-56B11B65626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FACD25-6E22-4531-92D9-56B11B65626E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FACD25-6E22-4531-92D9-56B11B65626E}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB912E00-7D22-450D-8F1E-605A64FDB23C}
+	EndGlobalSection
+EndGlobal
