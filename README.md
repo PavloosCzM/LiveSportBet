@@ -1,6 +1,6 @@
 # LiveSportBet
-Instalalation:
-  1. You must simply instal https://dotnet.microsoft.com/download
+Installation:
+  1. You must simply install https://dotnet.microsoft.com/download
   2. Than copy \LiveSportBet\LiveSportBet\bin\Release\netcoreapp2.1 to destination where you want the app to run.
   3. Run dotnet LiveSportBet.dll (Linux, Windows same command).
   
