@@ -19,9 +19,11 @@ namespace LiveSportBet
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-            .ConfigureLogging(config => {
+            .ConfigureLogging(config =>
+            {
                 config.ClearProviders();
             })
-                .UseStartup<Startup>();
+                .UseStartup<Startup>()
+        .UseUrls("http://*:80");
     }
 }

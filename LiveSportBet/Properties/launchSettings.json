@@ -1,7 +1,11 @@
-﻿{
+{
   "iisSettings": {
-    "windowsAuthentication": false, 
-    "anonymousAuthentication": true, 
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/LiveSportBet",
+      "sslPort": 0
+    },
     "iisExpress": {
       "applicationUrl": "http://localhost:58792",
       "sslPort": 44370
@@ -18,10 +22,10 @@
     "LiveSportBet": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:80",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "applicationUrl": "http://localhost:80"
     }
   }
 }

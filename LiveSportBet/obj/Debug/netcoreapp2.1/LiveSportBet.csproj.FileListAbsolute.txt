@@ -23,4 +23,3 @@ C:\Users\Dolby\source\repos\LiveSportBet\LiveSportBet\bin\Debug\netcoreapp2.1\Li
 C:\Users\Dolby\source\repos\LiveSportBet\LiveSportBet\bin\Debug\netcoreapp2.1\LiveSportBet.Views.pdb
 C:\Users\Dolby\source\repos\LiveSportBet\LiveSportBet\obj\Debug\netcoreapp2.1\LiveSportBet.Views.pdb
 C:\Users\Dolby\source\repos\LiveSportBet\LiveSportBet\obj\Debug\netcoreapp2.1\LiveSportBet.csproj.CopyComplete
-C:\Users\Dolby\source\repos\LiveSportBet\LiveSportBet\obj\Debug\netcoreapp2.1\LiveSportBet.csprojAssemblyReference.cache
