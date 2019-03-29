@@ -11,7 +11,7 @@ Configuration:
   There is only one way to configure app. You must open visual studio project, reprogram it and create Build.
   Than run build.
   
-Creator evaluation
+Creator evaluation:
   I programmed the application that it could be eazy expanded, and it must be maximally efective.
   Weakness in my soulution is that I worked in asp .net core for the first time. So I must learn everything.
 
